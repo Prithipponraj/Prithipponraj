@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ponraj" alt="Ponraj" /></a> </p>
 
-- 🔭 I’m currently working on **FSD Project**
-
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning and working on **FSD Project**
 
 - 💬 Ask me about **Java, MERN**
 
