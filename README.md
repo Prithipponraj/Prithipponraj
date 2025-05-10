@@ -1,21 +1,23 @@
 # Hi there, I'm Ponraj (aka Prithip) 👋
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=2E89F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Passionate+About+Building+Web+Apps;Open+to+Collaboration+%26+Learning!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=2E89F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Crafting+Scalable+Web+Apps;Open+to+Collaboration+%26+Learning!)
 
-Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specializing in the **MERN stack**. Based in **Bangalore**, I love crafting scalable and user-friendly web applications.
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlignY=40&animation=fadeIn" alt="header" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 - 💼 Full Stack Developer | **MERN Stack Enthusiast**
-- 🏗️ Building apps in **JavaScript** with the MERN stack.
 - 🌏 Exploring new technologies and frameworks.
-- 🌱 Currently learning more about **microservices** and **cloud computing**.
+- 🌱 Currently learning **microservices** and **cloud computing**.
 
 ---
 
 ## 🚀 Projects
-Here are a few of the projects I've worked on:
 - 🛒 **E-commerce Platform**: A full-featured e-commerce application.
 - 💼 **Job Portal**: Connecting job seekers and recruiters seamlessly.
 - 📈 **Trading Application**: Tools for real-time trading and analysis.
@@ -40,6 +42,14 @@ Check out my [portfolio](https://ponrajportfolio.netlify.app/) for more details.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ponraj&show_icons=true&theme=radical" alt="Ponraj's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ponraj&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponraj&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contributions
+<p align="center">
+  <img src="https://github.com/ponraj/ponraj/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
 
 ---
@@ -57,4 +67,6 @@ Check out my [portfolio](https://ponrajportfolio.netlify.app/) for more details.
 
 ---
 
-Thanks for stopping by! 😊
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" alt="footer" />
+</p>
