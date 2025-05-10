@@ -1,6 +1,6 @@
 # Hi there, I'm Ponraj (aka Prithip) 👋
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=2E89F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Crafting+Scalable+Web+Apps;Open+to+Collaboration+%26+Learning!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+MERN+Stack;Passionate+Coder+%7C+Tech+Enthusiast;Open+to+Collaboration+and+Learning!)
 
 ---
 
@@ -11,30 +11,26 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Full Stack Developer | **MERN Stack Enthusiast**
-- 🌏 Exploring new technologies and frameworks.
+- 💼 Full Stack Developer specializing in the **MERN stack**.
+- 🏗️ Building scalable, user-friendly web applications.
 - 🌱 Currently learning **microservices** and **cloud computing**.
+- 🌏 Based in **Bangalore**, always open to new opportunities.
 
 ---
 
 ## 🚀 Projects
-- 🛒 **E-commerce Platform**: A full-featured e-commerce application.
-- 💼 **Job Portal**: Connecting job seekers and recruiters seamlessly.
-- 📈 **Trading Application**: Tools for real-time trading and analysis.
+- 🛒 **E-commerce Platform**: A dynamic and full-featured e-commerce application.
+- 💼 **Job Portal**: Simplifying connections between job seekers and recruiters.
+- 📈 **Trading Application**: Real-time tools for financial trading and analysis.
 
-Check out my [portfolio](https://ponrajportfolio.netlify.app/) for more details.
+For more, check out my [Portfolio](https://ponrajportfolio.netlify.app/).
 
 ---
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,express,mysql,git,postman" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -47,23 +43,22 @@ Check out my [portfolio](https://ponrajportfolio.netlify.app/) for more details.
 
 ---
 
-## 🐍 Contributions
-<p align="center">
-  <img src="https://github.com/ponraj/ponraj/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-
----
-
-## 💡 Fun Facts
-- 🏋️ I love staying active through **workouts**.
-- 🌍 I’m an avid **traveler**, always looking for the next adventure.
+## 🎉 Fun Facts & Interests
+- 🏋️ Passionate about **workouts** and staying fit.
+- 🌍 Avid **traveler**, always seeking new adventures.
 - 💬 Favorite quote: _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
 ---
 
 ## 📫 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=internet-explorer&logoColor=white)](https://ponrajportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponraj-e-913026195/)
+<p align="center">
+  <a href="https://ponrajportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ponraj-e-913026195/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
