@@ -1,74 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ponraj E</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Hi there, I'm Ponraj (aka Prithip) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ponraj&label=Profile%20views&color=0e75b6&style=flat" alt="Ponraj" /> </p>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=2E89F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Passionate+About+Building+Web+Apps;Open+to+Collaboration+%26+Learning!)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ponraj" alt="Ponraj" /></a> </p>
+Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specializing in the **MERN stack**. Based in **Bangalore**, I love crafting scalable and user-friendly web applications.
 
-- 🌱 I’m currently learning and working on **FSD Project**
+---
 
-- 💬 Ask me about **Java, MERN**
+## 👨‍💻 About Me
+- 💼 Full Stack Developer | **MERN Stack Enthusiast**
+- 🏗️ Building apps in **JavaScript** with the MERN stack.
+- 🌏 Exploring new technologies and frameworks.
+- 🌱 Currently learning more about **microservices** and **cloud computing**.
 
-- 📭 How to reach me **prithipponrajofficial@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-- [LinkedIn](https://www.linkedin.com/in/ponraj-e-913026195?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+## 🚀 Projects
+Here are a few of the projects I've worked on:
+- 🛒 **E-commerce Platform**: A full-featured e-commerce application.
+- 💼 **Job Portal**: Connecting job seekers and recruiters seamlessly.
+- 📈 **Trading Application**: Tools for real-time trading and analysis.
+
+Check out my [portfolio](https://ponrajportfolio.netlify.app/) for more details.
+
+---
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ponraj&show_icons=true&theme=radical" alt="Ponraj's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ponraj&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>   
-  <a href="https://www.git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> 
-  </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
-</a>
+---
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a>
+## 💡 Fun Facts
+- 🏋️ I love staying active through **workouts**.
+- 🌍 I’m an avid **traveler**, always looking for the next adventure.
+- 💬 Favorite quote: _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
+---
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
+## 📫 Connect with Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=internet-explorer&logoColor=white)](https://ponrajportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponraj-e-913026195/)
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
+---
 
-</p>
+Thanks for stopping by! 😊
